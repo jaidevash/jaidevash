@@ -7,7 +7,7 @@ I’m interested in analytical work where impact is unequivocally visible.
 
 I’m currently learning **Python**, **C++**, **R**, **SQL**, and **VBA**. I’m looking to collaborate on real-world problems that are optimization-based or that involve data-driven solutions. 
 
-***How to reach me?** Find me at LinkedIn Shoot me an e-mail at **ans.jaidev@gmail.com**, and let's start talking!*
+***How to reach me?** Find me at LinkedIn or shoot me an e-mail at **ans.jaidev@gmail.com**, and let's start talking!*
 
 <!---
 jaidevash/jaidevash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
