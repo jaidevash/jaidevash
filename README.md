@@ -1,11 +1,11 @@
 
 
-# 👋 Hi, I’m @jaidevash, or **Jaidev Ashok**
-I graduated out of IIT Kanpur in 2020 with a major in Aerospace Engineering, and a minor in Computer Systems. I spend my days working as a financial consultant, using tech to drive key deliveries for clients. 
+# 👋 Hi, I’m **Jaidev Ashok**
+I graduated from IIT Kanpur in 2020 with a major in Aerospace Engineering and a minor in Computer Systems. I work as a financial consultant and use tech to drive key deliveries for clients in the ESG / sustainable finance. 
 
-I’m interested in analytical work where impact is unequivocally visible. 
+I’m interested in analytical work where impact is unequivocally visible. Maps interest me, and I could go on for hours looking at them. 
 
-I’m currently learning **Python**, **C++**, **R**, **SQL**, and **VBA**. I’m looking to collaborate on real-world problems that are optimization-based or that involve data-driven solutions. 
+I use **Python** in my day-to-day, and have used at various times in the past **SQL**, **C++**, and **VBA**. I’m looking to collaborate on real-world problems that are optimization-based or that involve data-driven solutions. 
 
 ***How to reach me?** Find me at LinkedIn or shoot me an e-mail at **ans.jaidev@gmail.com**, and let's start talking!*
 
