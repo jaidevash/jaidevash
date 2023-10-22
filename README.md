@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I’m **Jaidev Ashok**
-I graduated from IIT Kanpur in 2020 with a major in Aerospace Engineering and a minor in Computer Systems. I work as a financial consultant and use tech to drive key deliveries for clients in the ESG / sustainable finance. 
+I graduated from IIT Kanpur in 2020 with a Bachelors in Technology, majoring in Aerospace Engineering and minoring in Computer Systems. I work as a financial consultant and use tech to drive key deliveries for clients in the ESG / sustainable finance. 
 
 I’m interested in analytical work where impact is unequivocally visible. Maps interest me, and I could go on for hours looking at them. 
 
